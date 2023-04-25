@@ -4,4 +4,4 @@ var tipInDollars
 
 tipInDollars = amount * (tip / 100);
 
-console.log("The tip on a $some-number food bill is $some-number "+ tipInDollars);
+console.log("The tip on a $some-number food bill is $ "+ tipInDollars);
